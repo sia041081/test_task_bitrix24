@@ -1,0 +1,27 @@
+
+
+/* Start:/bitrix/templates/electroshop/components/bitrix/catalog.element/element/style.css?161539832532*/
+.catalog-price {
+	 color:red;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/electroshop/components/bitrix/news.list/.default/style.css?1615643861150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /bitrix/templates/electroshop/components/bitrix/catalog.element/element/style.css?161539832532 */
+/* /bitrix/templates/electroshop/components/bitrix/news.list/.default/style.css?1615643861150 */

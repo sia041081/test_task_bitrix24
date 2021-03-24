@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@mixin animation_0_25 {
+	transition: all .25s ease-out;
+	-webkit-transition: all .25s ease-out;
+	-moz-transition: all .25s ease-out;
+	-o-transition: all .25s ease-out;
+	-ms-transition: all .25s ease-out;
+}
+@mixin box-sizing {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+@mixin box-shadow {
+	-webkit-box-shadow: 0px 0px 10px #999;
+    -moz-box-shadow: 0px 0px 10px #999;
+    box-shadow: 0px 0px 10px #999;
+}
+@mixin box-shadow-none {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+
+$orange: #FF7737;
+$orange2: #FBB045;
+$orange3: #FDD395;
+$blue:#1585C5;
+$blue2:#82A9D1;
+$gray:#F7F7F7;
+$gray2:#E2E2E2;
+$black:#333333;
+$black2:#555555;
+$horizontal_margin: 30px;
+
+
+
+
+

@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/electroshop/components/bitrix/catalog.element/element/style.css" => "161539832532","/bitrix/templates/electroshop/components/bitrix/news.list/.default/style.css" => "1615643861150",]; ?>

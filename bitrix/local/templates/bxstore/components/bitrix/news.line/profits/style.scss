@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import "../../../../sass.scss";
+
+.profits {
+  display: table;
+  width: 100%;
+
+  .prof {
+    display: table-cell;
+    padding: 20px 0px 40px 0px;
+    width: 25%;
+    text-align: center;
+    img {
+      margin: 0px 0px 20px 0px;
+    }
+    span {
+      display: block;
+      width: 80%;
+      margin-left: 10%;
+      color: $black2;
+    }
+  }
+}

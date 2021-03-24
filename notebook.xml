@@ -1,0 +1,778 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>SiAsS</Author>
+  <LastAuthor>SiAsS</LastAuthor>
+  <Created>2021-03-17T10:00:28Z</Created>
+  <LastSaved>2021-03-17T10:01:43Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7335</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s15">
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="notebook">
+  <Table ss:ExpandedColumnCount="21" ss:ExpandedRowCount="31" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s15" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="15.75">
+   <Column ss:Index="6" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="307.5"/>
+   <Row>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">full_name</Data></Cell>
+    <Cell><Data ss:Type="String">name_prefix</Data></Cell>
+    <Cell><Data ss:Type="String">extended_name</Data></Cell>
+    <Cell><Data ss:Type="String">status</Data></Cell>
+    <Cell><Data ss:Type="String">images/header</Data></Cell>
+    <Cell><Data ss:Type="String">images/icon</Data></Cell>
+    <Cell><Data ss:Type="String">description</Data></Cell>
+    <Cell><Data ss:Type="String">micro_description</Data></Cell>
+    <Cell><Data ss:Type="String">color_code</Data></Cell>
+    <Cell><Data ss:Type="String">prices/min</Data></Cell>
+    <Cell><Data ss:Type="String">prices/price_min/amount</Data></Cell>
+    <Cell><Data ss:Type="String">prices/price_min/currency</Data></Cell>
+    <Cell><Data ss:Type="String">prices/price_min/converted/BYN/amount</Data></Cell>
+    <Cell><Data ss:Type="String">prices/price_min/converted/BYN/currency</Data></Cell>
+    <Cell><Data ss:Type="String">prices/price_min/converted/BYR/amount</Data></Cell>
+    <Cell><Data ss:Type="String">prices/max</Data></Cell>
+    <Cell><Data ss:Type="String">prices/price_max/converted/BYR/amount</Data></Cell>
+    <Cell><Data ss:Type="String">prices/currency_sign</Data></Cell>
+    <Cell><Data ss:Type="String">max_installment_terms</Data></Cell>
+    <Cell><Data ss:Type="String">second/min_price</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Legion 5 15IMH05 82AU00BDRE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo Legion 5 15IMH05 82AU00BDRE</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук Lenovo Legion 5 15IMH05 82AU00BDRE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/8eb1c67235cf82845223a7c51a3c1ba8.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, Intel Core i5 10300H 2500 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: NVIDIA GeForce GTX 1650 Ti 4 ГБ, без ОС, цвет крышки черный</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, Intel Core i5 10300H, 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 Ti 4 ГБ, без ОС, черный</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2570.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2570.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MateBook D 14 AMD NblL-WDQ9</Data></Cell>
+    <Cell><Data ss:Type="String">Huawei MateBook D 14 AMD NblL-WDQ9</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Huawei MateBook D 14 AMD NblL-WDQ9</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/f77e618982ed64f6785b39a68fd68273.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">14.0&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 4500U 2300 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 4500U, 8 ГБ, SSD 512 ГБ, встроенный, Windows 10, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2650.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2650.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">15s-eq1103ur 25T09EA</Data></Cell>
+    <Cell><Data ss:Type="String">HP 15s-eq1103ur 25T09EA</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук HP 15s-eq1103ur 25T09EA</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/20c0d2fe95fc1e8bf24b0f852de351c4.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 4500U 2300 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 4500U, 8 ГБ, SSD 256 ГБ, встроенный, без ОС, темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1769.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1769.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MagicBook 14 2020 53010VTY</Data></Cell>
+    <Cell><Data ss:Type="String">HONOR MagicBook 14 2020 53010VTY</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук HONOR MagicBook 14 2020 53010VTY</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/3ca32c20c4104d66bc0bf2155d9b85b6.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">14.0&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3500U 2100 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3500U, 8 ГБ, SSD 512 ГБ, встроенный, Windows 10, темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1999.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1999.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IdeaPad L3 15IML05 81Y300J6RE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo IdeaPad L3 15IML05 81Y300J6RE</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Lenovo IdeaPad L3 15IML05 81Y300J6RE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/4d252ca027fa44dfb84a64900f15fa9f.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, Intel Core i5 10210U 1600 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, Intel Core i5 10210U, 8 ГБ, SSD 256 ГБ, встроенный, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1648.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1648.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Macbook Air 13&quot; M1 2020 MGN63</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Macbook Air 13&quot; M1 2020 MGN63</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple Macbook Air 13&quot; M1 2020 MGN63</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/9a08e5f5400e508fb975bf697669c2b5.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Apple M1 3200 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Apple M1, 8 ГБ, SSD 256 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">3190.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">3190.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUF Gaming FX505DT-HN450</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS TUF Gaming FX505DT-HN450</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук ASUS TUF Gaming FX505DT-HN450</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/5d591589287bdfe724068e346033c6cc.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3550H 2100 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: NVIDIA GeForce GTX 1650 4 ГБ GDDR5, без ОС, цвет крышки черный</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3550H, 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 4 ГБ GDDR5, без ОС, черный</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2143.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2143.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MacBook Pro 13&quot; Touch Bar 2020 MWP42</Data></Cell>
+    <Cell><Data ss:Type="String">Apple MacBook Pro 13&quot; Touch Bar 2020 MWP42</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple MacBook Pro 13&quot; Touch Bar 2020 MWP42</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/48b547b30fe494084c31d81670ef4461.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный 2000 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, 16 ГБ, SSD 512 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">5170.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">5170.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MacBook Air 13&quot; 2020 MWTJ2</Data></Cell>
+    <Cell><Data ss:Type="String">Apple MacBook Air 13&quot; 2020 MWTJ2</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple MacBook Air 13&quot; 2020 MWTJ2</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/7ebf57383595320cccd242bd3e27f5f7.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Intel Core i3 1000G4 1100 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Intel Core i3 1000G4, 8 ГБ, SSD 256 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2950.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2950.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Macbook Pro 13&quot; M1 2020 MYD82</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Macbook Pro 13&quot; M1 2020 MYD82</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple Macbook Pro 13&quot; M1 2020 MYD82</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/f81d7ac523abe5530da64ebc9c7d855c.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Apple M1 3200 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Apple M1, 8 ГБ, SSD 256 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">3850.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">3850.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IdeaPad 3 15IML05 81WB00QBRE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo IdeaPad 3 15IML05 81WB00QBRE</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Lenovo IdeaPad 3 15IML05 81WB00QBRE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/e21eccba8c9727603bb495899f5d4adb.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 TN+Film, несенсорный, Intel Celeron 5205U 1900 МГц, 4 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки черный</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 TN+Film, несенсорный, Intel Celeron 5205U, 4 ГБ, SSD 256 ГБ, встроенный, без ОС, черный</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1025.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1025.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUF Gaming Dash F15 FX516PR-AZ019</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS TUF Gaming Dash F15 FX516PR-AZ019</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук ASUS TUF Gaming Dash F15 FX516PR-AZ019</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/aab0ec3c321650295344e1854d55b157.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, Intel Core i7 11370H 3300 МГц, 16 ГБ, SSD 1024 ГБ, граф. адаптер: NVIDIA GeForce RTX 3070 8 ГБ, без ОС, цвет крышки темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, Intel Core i7 11370H, 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 8 ГБ, без ОС, темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">5600.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">5600.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VivoBook 15 X512DA-BQ1134</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS VivoBook 15 X512DA-BQ1134</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук ASUS VivoBook 15 X512DA-BQ1134</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/89af61f3277f7dafbdbf8f72236e1735.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3500U 2100 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Linux, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3500U, 8 ГБ, SSD 512 ГБ, встроенный, Linux, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1600.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1600.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ROG Strix G17 G713QR-HG021</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS ROG Strix G17 G713QR-HG021</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук ASUS ROG Strix G17 G713QR-HG021</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/ea1a077d9e87aa33835d55727c3ac162.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">17.3&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 7 5800H 3200 МГц, 16 ГБ, SSD 1024 ГБ, граф. адаптер: NVIDIA GeForce RTX 3070 8 ГБ, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 7 5800H, 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 3070 8 ГБ, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">6984.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">6984.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Zenbook UX433FQ-A5081T</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS Zenbook UX433FQ-A5081T</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук ASUS Zenbook UX433FQ-A5081T</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/33680ae92518e09ec55a413b575b40f4.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">14.0&quot; 1920 x 1080 IPS, несенсорный, Intel Core i5 10210U 1600 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: NVIDIA GeForce MX350 2 ГБ, Windows 10, цвет крышки темно-синий</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, Intel Core i5 10210U, 8 ГБ, SSD 256 ГБ, NVIDIA GeForce MX350 2 ГБ, Windows 10, темно-синий</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2726.55</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2726.55</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MacBook Pro 16&quot; 2019 MVVJ2</Data></Cell>
+    <Cell><Data ss:Type="String">Apple MacBook Pro 16&quot; 2019 MVVJ2</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple MacBook Pro 16&quot; 2019 MVVJ2</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/db499f52fa0d4b9c31fd30231359b4c1.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">16.0&quot; 3072x1920 IPS, несенсорный, Intel Core i7 9750H 2600 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: AMD Radeon Pro 5300M 4ГБ, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">3072x1920 IPS, несенсорный, Intel Core i7 9750H, 16 ГБ, SSD 512 ГБ, AMD Radeon Pro 5300M 4ГБ, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">6550.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">6550.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUF Gaming FX505DV-HN279</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS TUF Gaming FX505DV-HN279</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук ASUS TUF Gaming FX505DV-HN279</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/5d591589287bdfe724068e346033c6cc.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3550H 2100 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: NVIDIA GeForce RTX 2060 6 ГБ, без ОС, цвет крышки черный</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 3550H, 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 6 ГБ, без ОС, черный</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2999.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2999.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Macbook Air 13&quot; M1 2020 Z1240004P</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Macbook Air 13&quot; M1 2020 Z1240004P</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple Macbook Air 13&quot; M1 2020 Z1240004P</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/9a08e5f5400e508fb975bf697669c2b5.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Apple M1 3200 МГц, 16 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Apple M1, 16 ГБ, SSD 256 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">4850.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">4850.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VivoBook 15 X512DA-EJ265</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS VivoBook 15 X512DA-EJ265</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук ASUS VivoBook 15 X512DA-EJ265</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/89af61f3277f7dafbdbf8f72236e1735.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 TN+Film, несенсорный, AMD Ryzen 5 3500U 2100 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 TN+Film, несенсорный, AMD Ryzen 5 3500U, 8 ГБ, SSD 512 ГБ, встроенный, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1599.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1599.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IdeaPad 5 15ARE05 81YQ0076RE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo IdeaPad 5 15ARE05 81YQ0076RE</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Lenovo IdeaPad 5 15ARE05 81YQ0076RE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/74d49f22a9075325c27331b667d0e0dc.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 3 4300U 2700 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 3 4300U, 8 ГБ, SSD 256 ГБ, встроенный, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1690.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1690.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUF Gaming F15 FX506LI-HN012</Data></Cell>
+    <Cell><Data ss:Type="String">ASUS TUF Gaming F15 FX506LI-HN012</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук ASUS TUF Gaming F15 FX506LI-HN012</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/40b4ea5dfad47cfbf39a72e5afbef237.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, Intel Core i5 10300H 2500 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: NVIDIA GeForce GTX 1650 Ti 4 ГБ, без ОС, цвет крышки черный</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, Intel Core i5 10300H, 8 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 Ti 4 ГБ, без ОС, черный</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2477.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2477.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pavilion Gaming 15-ec1032ur 1N3L2EA</Data></Cell>
+    <Cell><Data ss:Type="String">HP Pavilion Gaming 15-ec1032ur 1N3L2EA</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук HP Pavilion Gaming 15-ec1032ur 1N3L2EA</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/d5b55b362eeac01cade51227c1f8a40c.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 7 4800H 2900 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: NVIDIA GeForce GTX 1650 4 ГБ GDDR5, без ОС, цвет крышки темно-серый/зеленый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 7 4800H, 16 ГБ, SSD 512 ГБ, NVIDIA GeForce GTX 1650 4 ГБ GDDR5, без ОС, темно-серый/зеленый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2329.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2329.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Macbook Pro 13&quot; M1 2020 Z11B0004T</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Macbook Pro 13&quot; M1 2020 Z11B0004T</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple Macbook Pro 13&quot; M1 2020 Z11B0004T</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/f81d7ac523abe5530da64ebc9c7d855c.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Apple M1 3200 МГц, 16 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Apple M1, 16 ГБ, SSD 256 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">5599.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">5599.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Macbook Air 13&quot; M1 2020 Z1250007M</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Macbook Air 13&quot; M1 2020 Z1250007M</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple Macbook Air 13&quot; M1 2020 Z1250007M</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/9a08e5f5400e508fb975bf697669c2b5.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Apple M1 3200 МГц, 16 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Apple M1, 16 ГБ, SSD 512 ГБ, встроенный, Mac OS, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">5600.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">5600.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Legion 5 15ARH05H 82B10078PB</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo Legion 5 15ARH05H 82B10078PB</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Игровой ноутбук Lenovo Legion 5 15ARH05H 82B10078PB</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/8eb1c67235cf82845223a7c51a3c1ba8.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 7 4800H 2900 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: NVIDIA GeForce RTX 2060 6 ГБ, без ОС, цвет крышки черный</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 7 4800H, 8 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 2060 6 ГБ, без ОС, черный</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">3033.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">3033.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">RedmiBook 16 JYU4275CN</Data></Cell>
+    <Cell><Data ss:Type="String">Xiaomi RedmiBook 16 JYU4275CN</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Xiaomi RedmiBook 16 JYU4275CN</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/61587c9c80975112b30023e3a3c90a36.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">16.1&amp;quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 5 4500U 2300 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 5 4500U, 8 ГБ, SSD 512 ГБ, встроенный, Windows 10, темно-серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">2168.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">2168.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IdeaPad 3 15IML05 81WB00R8RE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo IdeaPad 3 15IML05 81WB00R8RE</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Lenovo IdeaPad 3 15IML05 81WB00R8RE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/07e9bae6324af248015f892a6b6e4fa2.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 TN+Film, несенсорный, Intel Pentium Gold 6405U 2400 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 TN+Film, несенсорный, Intel Pentium Gold 6405U, 8 ГБ, SSD 256 ГБ, встроенный, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1255.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1255.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Macbook Air 13&quot; M1 2020 MGN93</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Macbook Air 13&quot; M1 2020 MGN93</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Apple Macbook Air 13&quot; M1 2020 MGN93</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/466da7687629365db7685c2b09b4b685.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">13.3&quot; 2560 x 1600 IPS, несенсорный, Apple M1 3200 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серебристый</Data></Cell>
+    <Cell><Data ss:Type="String">2560 x 1600 IPS, несенсорный, Apple M1, 8 ГБ, SSD 256 ГБ, встроенный, Mac OS, серебристый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">3190.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">3190.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IdeaPad 3 15IIL05 81WE00YJRE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo IdeaPad 3 15IIL05 81WE00YJRE</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Lenovo IdeaPad 3 15IIL05 81WE00YJRE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/07e9bae6324af248015f892a6b6e4fa2.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">15.6&quot; 1920 x 1080 IPS, несенсорный, Intel Core i5 1035G1 1000 МГц, 8 ГБ, SSD 512 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, Intel Core i5 1035G1, 8 ГБ, SSD 512 ГБ, встроенный, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1740.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1740.00</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IdeaPad 3 17ADA05 81W20042RE</Data></Cell>
+    <Cell><Data ss:Type="String">Lenovo IdeaPad 3 17ADA05 81W20042RE</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук</Data></Cell>
+    <Cell><Data ss:Type="String">Ноутбук Lenovo IdeaPad 3 17ADA05 81W20042RE</Data></Cell>
+    <Cell><Data ss:Type="String">active</Data></Cell>
+    <Cell><Data ss:Type="String">//content2.onliner.by/catalog/device/header/368cc43ca72768e150e4c7f1ebaa765d.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">17.3&quot; 1920 x 1080 IPS, несенсорный, AMD Ryzen 3 3250U 2600 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки серый</Data></Cell>
+    <Cell><Data ss:Type="String">1920 x 1080 IPS, несенсорный, AMD Ryzen 3 3250U, 8 ГБ, SSD 256 ГБ, встроенный, без ОС, серый</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">1765.08</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String">1765.08</Data></Cell>
+    <Cell><Data ss:Type="String">BYN</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>12</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>17</ActiveCol>
+     <RangeSelection>C18</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

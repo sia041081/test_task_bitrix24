@@ -1,0 +1,70 @@
+@charset "UTF-8";
+@import "../../../../sass.scss";
+
+
+.slider_area {
+  width: 910px;
+  overflow: hidden;
+}
+
+ul#slider {
+  margin: 0;
+  padding: 0;
+  width: 910px;
+  li {
+    a {
+      display: block;
+      text-decoration: none;
+      width: 100%;
+      height: 100%;
+      img {
+       width: 100%;
+        border-radius: 3px;
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: 1200px) {
+  .slider_area {
+    width: 694px;
+    overflow: hidden;
+  }
+}
+
+
+ol.numericControls {
+  width: 90%;
+  list-style: none;
+  position: relative;
+  top: -35px;
+  margin-left: 15px;
+}
+
+ol.numericControls li {
+  display: inline-block;
+}
+
+ol.numericControls li a {
+  font-size: 0px;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0px 5px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px $black2 solid;
+}
+
+ol.numericControls li.current a {
+  background: $orange;
+  border: 1px $orange solid;
+}
+
+span.controls {
+  a.prevBtn, a.nextBtn {
+    display: none;
+  }
+}
+

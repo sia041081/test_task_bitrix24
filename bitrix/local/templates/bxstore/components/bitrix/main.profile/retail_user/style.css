@@ -1,0 +1,55 @@
+.bxauth_profile {
+  margin-top: 40px; }
+  .bxauth_profile h2 {
+    font-size: 18px;
+    background: #f0f0f0;
+    padding: 10px !important;
+    color: #666666;
+    margin: 20px 0px 20px 0px !important; }
+  .bxauth_profile .one_item {
+    margin: 0;
+    padding: 0px 0px 15px 0px; }
+    .bxauth_profile .one_item b {
+      font-weight: 400;
+      color: #666666;
+      display: inline-block;
+      width: 280px;
+      padding-top: 5px;
+      padding-left: 0px;
+      vertical-align: top; }
+    .bxauth_profile .one_item small {
+      font-size: 12px;
+      color: #999; }
+    .bxauth_profile .one_item input[type="text"], .bxauth_profile .one_item input[type="password"] {
+      width: 320px;
+      height: 40px;
+      padding: 0px 10px;
+      border: 1px #E2E2E2 solid; }
+    .bxauth_profile .one_item textarea {
+      width: 320px;
+      height: 150px;
+      padding: 10px 10px;
+      border: 1px #E2E2E2 solid; }
+    .bxauth_profile .one_item select {
+      height: 35px;
+      width: 320px;
+      margin: 0px 0px 30px 0px; }
+    .bxauth_profile .one_item input[type="submit"] {
+      background: #FF7737;
+      color: #ffffff;
+      text-transform: uppercase;
+      border: 1px #FBB045 solid;
+      transition: all .25s ease-out;
+      -webkit-transition: all .25s ease-out;
+      -moz-transition: all .25s ease-out;
+      -o-transition: all .25s ease-out;
+      -ms-transition: all .25s ease-out;
+      cursor: pointer;
+      height: 35px;
+      font-size: 14px;
+      width: 180px;
+      border-radius: 2px; }
+      .bxauth_profile .one_item input[type="submit"]:hover {
+        background: #FBB045; }
+
+/*# sourceMappingURL=style.css.map */

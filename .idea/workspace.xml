@@ -1,33 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d624bbf8-ac22-4aaf-be33-77175f0a09f2" name="Default Changelist" comment="" />
+    <list default="true" id="41fa321b-eb16-4e2b-9738-38bed3ff1ef6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharConfigPath>$PROJECT_DIR$/phpmyadmin/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
-      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
-      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
-      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
-      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
-      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/shapefile" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1oW6TcIZs2U7TwZMfsYZKCVqwqu" />
+  <component name="ProjectId" id="1p1UIbmUHnh52dOx9JdXLPzCYaX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,55 +76,103 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Server/data/htdocs/test.loc" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\openserver\OpenServer\domains\test.loc" />
+      <recent name="C:\Server\data\htdocs" />
+      <recent name="C:\Server\data\htdocs\categories" />
+      <recent name="C:\Server\data\htdocs\bitrix\templates\electroshop" />
+      <recent name="C:\Server\data\htdocs\bitrix\templates\electroshop\components\bitrix\system.pagenavigation" />
+      <recent name="C:\Server\data\htdocs\bitrix\templates\electroshop\components\bitrix\catalog.item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Server\data\htdocs\bitrix\templates\electroshop\components\bitrix\catalog\catalog2\bitrix\catalog.element" />
+      <recent name="C:\Server\data\htdocs\category" />
+      <recent name="C:\Server\data\htdocs\bitrix\templates\electroshop" />
+      <recent name="C:\Server\data\htdocs\subscribe" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d624bbf8-ac22-4aaf-be33-77175f0a09f2" name="Default Changelist" comment="" />
-      <created>1613390007874</created>
+      <changelist id="41fa321b-eb16-4e2b-9738-38bed3ff1ef6" name="Default Changelist" comment="" />
+      <created>1614350010395</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613390007874</updated>
-      <workItem from="1613390009253" duration="50606000" />
-      <workItem from="1613536890869" duration="27723000" />
-      <workItem from="1613583839940" duration="7816000" />
-      <workItem from="1613614598788" duration="17463000" />
+      <updated>1614350010395</updated>
+      <workItem from="1614350011621" duration="8500000" />
+      <workItem from="1614405337978" duration="13155000" />
+      <workItem from="1614441873255" duration="41000" />
+      <workItem from="1614445667369" duration="8221000" />
+      <workItem from="1614492394654" duration="45725000" />
+      <workItem from="1614566424672" duration="18618000" />
+      <workItem from="1614597280060" duration="15109000" />
+      <workItem from="1614620982292" duration="237000" />
+      <workItem from="1614621246285" duration="96000" />
+      <workItem from="1614621363840" duration="13206000" />
+      <workItem from="1614657875454" duration="14998000" />
+      <workItem from="1614701188446" duration="9437000" />
+      <workItem from="1614752028925" duration="99000" />
+      <workItem from="1614752152044" duration="35556000" />
+      <workItem from="1614834007287" duration="9781000" />
+      <workItem from="1614845627761" duration="24954000" />
+      <workItem from="1614921112022" duration="12950000" />
+      <workItem from="1614935140398" duration="38579000" />
+      <workItem from="1615012106330" duration="26700000" />
+      <workItem from="1615060243520" duration="1049000" />
+      <workItem from="1615100507039" duration="31000" />
+      <workItem from="1615215635060" duration="33331000" />
+      <workItem from="1615360859270" duration="225000" />
+      <workItem from="1615361151325" duration="137000" />
+      <workItem from="1615361317275" duration="21000" />
+      <workItem from="1615361359341" duration="24690000" />
+      <workItem from="1615397672581" duration="8052000" />
+      <workItem from="1615441904302" duration="12442000" />
+      <workItem from="1615521606169" duration="5193000" />
+      <workItem from="1615557158974" duration="18676000" />
+      <workItem from="1615613013144" duration="1624000" />
+      <workItem from="1615618788634" duration="4668000" />
+      <workItem from="1615634702392" duration="18823000" />
+      <workItem from="1615709314057" duration="7802000" />
+      <workItem from="1615720529178" duration="23070000" />
+      <workItem from="1615984283197" duration="72000" />
+      <workItem from="1615984951955" duration="1690000" />
+      <workItem from="1615986778071" duration="33000" />
+      <workItem from="1615986827177" duration="14469000" />
+      <workItem from="1616045252113" duration="17373000" />
+      <workItem from="1616143611775" duration="2475000" />
+      <workItem from="1616147145670" duration="3803000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1613640923673">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1613640923673" />
-    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1613504599538">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1613504599538" />
-    <state x="92" y="92" width="1182" height="554" key="dock-window-1" timestamp="1613468060990">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="92" y="92" width="1182" height="554" key="dock-window-1/0.0.1366.738@0.0.1366.738" timestamp="1613468060990" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1613586649154">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1613586649154" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1613499124507">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1613499124507" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

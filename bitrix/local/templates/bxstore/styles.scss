@@ -1,0 +1,99 @@
+@charset "UTF-8";
+@import "sass.scss";
+
+//Рекламные баннеры
+.main_salearea {
+  border: 1px #ccc solid;
+  margin: 40px 0px;
+  .left {
+    float: left;
+    width: 43%;
+    padding: 25px 20px;
+    h5 {
+      color: $orange2;
+      font-size: 17px;
+      padding: 0px 0px 20px 0px;
+      margin: 0;
+    }
+    a {
+      text-decoration: underline;
+      &:hover {
+        color: $orange2;
+      }
+    }
+  }
+  img {
+    width: 43%;
+    margin: 25px 20px;
+    float: right;
+  }
+}
+
+ul.tabs_visual {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: $gray;
+  li {
+    display: inline-block;
+    a {
+      color: $black2;
+      font-weight: bold;
+      display: block;
+      padding: 10px 40px;
+      border-bottom: 2px transparent solid;
+      position: relative;
+      &:hover {
+        border-bottom: 2px $orange2 solid;
+      }
+    }
+  }
+  li.active {
+    a {
+      border-bottom: 2px $orange2 solid;
+    }
+  }
+}
+
+//Типовые формы
+.forms {
+  width: 400px;
+  input {
+    width: 90%;
+    height: 40px;
+    border:1px $gray2 solid;
+    border-radius: 3px;
+    padding: 0px 10px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    &[type="text"] {
+    }
+    &[type="password"] {
+    }
+    &[type="email"] {
+    }
+    &[type="submit"] {
+      background: $orange2;
+      color: #ffffff;
+      text-transform: uppercase;
+      border:1px $orange solid;
+      @include animation_0_25;
+      cursor: pointer;
+      &:hover {
+        background: $orange2;
+      }
+    }
+  }
+  a.links {
+    display: inline-block;
+    border-bottom: $blue2 solid 1px;
+  }
+  h5.as_social {
+    font-size: 14px;
+    color: #777;
+    font-weight: 400;
+    margin: 0;
+    padding: 10px 0px 10px 0px;
+  }
+}
+

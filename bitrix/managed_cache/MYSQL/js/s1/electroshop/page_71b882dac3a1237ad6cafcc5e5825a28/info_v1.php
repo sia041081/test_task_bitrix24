@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/electroshop/components/bitrix/catalog.section/1111/script.js" => "16148745705564","/bitrix/templates/electroshop/components/bitrix/catalog.item/my_items/script.js" => "161434668440913","/bitrix/components/bitrix/catalog.comments/templates/.default/script.js" => "16143466825833",]; ?>

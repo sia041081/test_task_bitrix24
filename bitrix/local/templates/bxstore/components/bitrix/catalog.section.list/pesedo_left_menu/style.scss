@@ -1,0 +1,89 @@
+@charset "UTF-8";
+@import "../../../../sass.scss";
+
+.left_catalog_menu {
+  width: 240px;
+  background: $gray;
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+    //Первый уровень
+    li.level_1 {
+      a {
+        display: block;
+        padding: 10px;
+        color: $black;
+        strong {
+          text-decoration: underline;
+          font-weight: 400;
+        }
+        span {
+          display: inline-block;
+          padding-right: 10px;
+          color: #999;
+        }
+        &:hover {
+          background: $black2;
+          strong {
+            color: $orange2;
+          }
+        }
+      }
+
+      //Второй уровень
+      ul {
+        display: none;
+        overflow: hidden;
+        @include animation_0_25;
+        position: absolute;
+        top: 0;
+        left: 240px;
+        min-height: 760px;
+        background: #fff;
+        z-index: 450;
+        width: 300px;
+        border: 2px $black2 solid;
+        li.level_2 {
+          width: 100%;
+          float: left;
+          a {
+            //font-weight: bold;
+            color: $black2;
+            padding: 10px 20px 0px 20px;
+            &:hover {
+              text-decoration: underline;
+            }
+          }
+          &:last-child {
+            a {
+              padding: 10px 20px 10px 20px;
+            }
+          }
+
+        }
+      }
+
+      // li.level_1 - при наведении
+      &:hover {
+        a {
+          background: $black2;
+          strong {
+            color: $orange2;
+          }
+        }
+        ul {
+          display: block;
+          li.level_2 {
+            a {
+              background: none;
+            }
+          }
+        }
+      }
+    }
+
+  }
+}

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@import "../../../../sass.scss";
+
+.news_lines {
+  display: table;
+  width: 100%;
+  .new_line {
+    display: table-cell;
+    width: 20%;
+    a {
+      width: 80%;
+      display: block;
+      img {
+        width: 70%;
+        margin-top: 30px;
+      }
+      h5 {
+        margin: 0;
+        padding: 20px 0px 10px 0px;
+        font-weight: 400;
+        font-size: 15px;
+      }
+      span {
+        color: #999999;
+      }
+      &:hover {
+        h5 {
+          color: $orange2;
+        }
+      }
+    }
+  }
+}

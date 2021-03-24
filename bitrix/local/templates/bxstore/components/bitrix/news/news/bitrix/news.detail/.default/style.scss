@@ -1,0 +1,20 @@
+@charset "UTF-8";
+@import "../../../../../../../sass.scss";
+
+.detailnew {
+  img {
+    max-width: 100%;
+    border:4px #fff solid;
+    @include box-shadow;
+    float: left;
+    margin: 0px 15px 15px 0px;
+  }
+  span {
+    font-size: 13px;
+    display: block;
+   // padding-bottom: 15px;
+  }
+  p {
+
+  }
+}
